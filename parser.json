@@ -1,6 +1,14 @@
 {
   "lang": "vue",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-vue",
   "semver": false,
-  "parser_version": "ce8011a414fdf8091f4e4071752efc376f4afb08"
+  "parser_version": "ce8011a414fdf8091f4e4071752efc376f4afb08",
+  "inject_deps": [
+    "css",
+    "javascript",
+    "pug",
+    "scss",
+    "tsx",
+    "typescript"
+  ],
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-vue"
 }
